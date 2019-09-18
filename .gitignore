@@ -3,14 +3,14 @@ Makefile.in
 aclocal.m4
 autom4te.cache
 compile
-config.*
+# config.*
 configure
 depcomp
 gtk-doc.make
 install-sh
-librsvg-enum-types.c
-librsvg-enum-types.h
-librsvg-features.h
+# librsvg-enum-types.c
+# librsvg-enum-types.h
+# librsvg-features.h
 librsvg-zip
 librsvg.spec
 libtool
